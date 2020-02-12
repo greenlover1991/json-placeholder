@@ -29,44 +29,14 @@
           "size": 1401
         }
       },
-      "public": true,
-      "created_at": "2020-02-12T10:15:21Z",
-      "updated_at": "2020-02-12T10:15:21Z",
-      "description": "",
-      "comments": 0,
-      "user": null,
-      "comments_url": "https://api.github.com/gists/55b21e61b9800bc7e5a30184e97f7679/comments",
       "owner": {
         "login": "Ghost1703",
-        "id": 58777169,
-        "node_id": "MDQ6VXNlcjU4Nzc3MTY5",
-        "avatar_url": "https://avatars0.githubusercontent.com/u/58777169?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Ghost1703",
-        "html_url": "https://github.com/Ghost1703",
-        "followers_url": "https://api.github.com/users/Ghost1703/followers",
-        "following_url": "https://api.github.com/users/Ghost1703/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Ghost1703/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Ghost1703/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Ghost1703/subscriptions",
-        "organizations_url": "https://api.github.com/users/Ghost1703/orgs",
-        "repos_url": "https://api.github.com/users/Ghost1703/repos",
-        "events_url": "https://api.github.com/users/Ghost1703/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Ghost1703/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "truncated": false
+        "avatar_url": "https://avatars0.githubusercontent.com/u/58777169?v=4"
+      }
     },
     {
       "url": "https://api.github.com/gists/c5052e043b3d7e61f507b4f8f8f2401c",
-      "forks_url": "https://api.github.com/gists/c5052e043b3d7e61f507b4f8f8f2401c/forks",
-      "commits_url": "https://api.github.com/gists/c5052e043b3d7e61f507b4f8f8f2401c/commits",
       "id": "c5052e043b3d7e61f507b4f8f8f2401c",
-      "node_id": "MDQ6R2lzdGM1MDUyZTA0M2IzZDdlNjFmNTA3YjRmOGY4ZjI0MDFj",
-      "git_pull_url": "https://gist.github.com/c5052e043b3d7e61f507b4f8f8f2401c.git",
-      "git_push_url": "https://gist.github.com/c5052e043b3d7e61f507b4f8f8f2401c.git",
-      "html_url": "https://gist.github.com/c5052e043b3d7e61f507b4f8f8f2401c",
       "files": {
         "HW 26.java": {
           "filename": "HW 26.java",
@@ -76,44 +46,14 @@
           "size": 1401
         }
       },
-      "public": true,
-      "created_at": "2020-02-12T10:15:19Z",
-      "updated_at": "2020-02-12T10:15:19Z",
-      "description": "",
-      "comments": 0,
-      "user": null,
-      "comments_url": "https://api.github.com/gists/c5052e043b3d7e61f507b4f8f8f2401c/comments",
       "owner": {
         "login": "Ghost1703",
-        "id": 58777169,
-        "node_id": "MDQ6VXNlcjU4Nzc3MTY5",
-        "avatar_url": "https://avatars0.githubusercontent.com/u/58777169?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Ghost1703",
-        "html_url": "https://github.com/Ghost1703",
-        "followers_url": "https://api.github.com/users/Ghost1703/followers",
-        "following_url": "https://api.github.com/users/Ghost1703/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Ghost1703/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Ghost1703/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Ghost1703/subscriptions",
-        "organizations_url": "https://api.github.com/users/Ghost1703/orgs",
-        "repos_url": "https://api.github.com/users/Ghost1703/repos",
-        "events_url": "https://api.github.com/users/Ghost1703/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Ghost1703/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "truncated": false
+        "avatar_url": "https://avatars0.githubusercontent.com/u/58777169?v=4"
+      }
     },
     {
       "url": "https://api.github.com/gists/107b68cdba7310cd720fa0988069ddc4",
-      "forks_url": "https://api.github.com/gists/107b68cdba7310cd720fa0988069ddc4/forks",
-      "commits_url": "https://api.github.com/gists/107b68cdba7310cd720fa0988069ddc4/commits",
       "id": "107b68cdba7310cd720fa0988069ddc4",
-      "node_id": "MDQ6R2lzdDEwN2I2OGNkYmE3MzEwY2Q3MjBmYTA5ODgwNjlkZGM0",
-      "git_pull_url": "https://gist.github.com/107b68cdba7310cd720fa0988069ddc4.git",
-      "git_push_url": "https://gist.github.com/107b68cdba7310cd720fa0988069ddc4.git",
-      "html_url": "https://gist.github.com/107b68cdba7310cd720fa0988069ddc4",
       "files": {
         "monitoring-manager-lab": {
           "filename": "monitoring-manager-lab",
@@ -123,44 +63,14 @@
           "size": 4056
         }
       },
-      "public": true,
-      "created_at": "2020-02-12T10:14:44Z",
-      "updated_at": "2020-02-12T10:14:45Z",
-      "description": "",
-      "comments": 0,
-      "user": null,
-      "comments_url": "https://api.github.com/gists/107b68cdba7310cd720fa0988069ddc4/comments",
       "owner": {
         "login": "guy9",
-        "id": 42927024,
-        "node_id": "MDQ6VXNlcjQyOTI3MDI0",
-        "avatar_url": "https://avatars0.githubusercontent.com/u/42927024?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/guy9",
-        "html_url": "https://github.com/guy9",
-        "followers_url": "https://api.github.com/users/guy9/followers",
-        "following_url": "https://api.github.com/users/guy9/following{/other_user}",
-        "gists_url": "https://api.github.com/users/guy9/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/guy9/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/guy9/subscriptions",
-        "organizations_url": "https://api.github.com/users/guy9/orgs",
-        "repos_url": "https://api.github.com/users/guy9/repos",
-        "events_url": "https://api.github.com/users/guy9/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/guy9/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "truncated": false
+        "avatar_url": "https://avatars0.githubusercontent.com/u/42927024?v=4"
+      }
     },
     {
       "url": "https://api.github.com/gists/a40576708640da2504a2f684729c2cdc",
-      "forks_url": "https://api.github.com/gists/a40576708640da2504a2f684729c2cdc/forks",
-      "commits_url": "https://api.github.com/gists/a40576708640da2504a2f684729c2cdc/commits",
       "id": "a40576708640da2504a2f684729c2cdc",
-      "node_id": "MDQ6R2lzdGE0MDU3NjcwODY0MGRhMjUwNGEyZjY4NDcyOWMyY2Rj",
-      "git_pull_url": "https://gist.github.com/a40576708640da2504a2f684729c2cdc.git",
-      "git_push_url": "https://gist.github.com/a40576708640da2504a2f684729c2cdc.git",
-      "html_url": "https://gist.github.com/a40576708640da2504a2f684729c2cdc",
       "files": {
         "untrusted-lvl4-solution.js": {
           "filename": "untrusted-lvl4-solution.js",
@@ -170,44 +80,14 @@
           "size": 770
         }
       },
-      "public": true,
-      "created_at": "2020-02-12T10:14:35Z",
-      "updated_at": "2020-02-12T10:14:35Z",
-      "description": "Solution to level 4 in Untrusted: http://alex.nisnevich.com/untrusted/",
-      "comments": 0,
-      "user": null,
-      "comments_url": "https://api.github.com/gists/a40576708640da2504a2f684729c2cdc/comments",
       "owner": {
         "login": "Untrusted-Game",
-        "id": 37789057,
-        "node_id": "MDQ6VXNlcjM3Nzg5MDU3",
-        "avatar_url": "https://avatars2.githubusercontent.com/u/37789057?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Untrusted-Game",
-        "html_url": "https://github.com/Untrusted-Game",
-        "followers_url": "https://api.github.com/users/Untrusted-Game/followers",
-        "following_url": "https://api.github.com/users/Untrusted-Game/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Untrusted-Game/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Untrusted-Game/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Untrusted-Game/subscriptions",
-        "organizations_url": "https://api.github.com/users/Untrusted-Game/orgs",
-        "repos_url": "https://api.github.com/users/Untrusted-Game/repos",
-        "events_url": "https://api.github.com/users/Untrusted-Game/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Untrusted-Game/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "truncated": false
+        "avatar_url": "https://avatars2.githubusercontent.com/u/37789057?v=4"
+      }
     },
     {
       "url": "https://api.github.com/gists/a52e4be8c8a8a71efe59239c220ea466",
-      "forks_url": "https://api.github.com/gists/a52e4be8c8a8a71efe59239c220ea466/forks",
-      "commits_url": "https://api.github.com/gists/a52e4be8c8a8a71efe59239c220ea466/commits",
       "id": "a52e4be8c8a8a71efe59239c220ea466",
-      "node_id": "MDQ6R2lzdGE1MmU0YmU4YzhhOGE3MWVmZTU5MjM5YzIyMGVhNDY2",
-      "git_pull_url": "https://gist.github.com/a52e4be8c8a8a71efe59239c220ea466.git",
-      "git_push_url": "https://gist.github.com/a52e4be8c8a8a71efe59239c220ea466.git",
-      "html_url": "https://gist.github.com/a52e4be8c8a8a71efe59239c220ea466",
       "files": {
         "answer.md": {
           "filename": "answer.md",
@@ -217,34 +97,10 @@
           "size": 1185
         }
       },
-      "public": true,
-      "created_at": "2020-02-12T10:14:16Z",
-      "updated_at": "2020-02-12T10:14:16Z",
-      "description": "AppBot - a Discord bot made for staff application management within Discord.",
-      "comments": 0,
-      "user": null,
-      "comments_url": "https://api.github.com/gists/a52e4be8c8a8a71efe59239c220ea466/comments",
       "owner": {
         "login": "Discord-AppBot",
-        "id": 41850572,
-        "node_id": "MDQ6VXNlcjQxODUwNTcy",
         "avatar_url": "https://avatars3.githubusercontent.com/u/41850572?v=4",
-        "gravatar_id": "",
-        "url": "https://api.github.com/users/Discord-AppBot",
-        "html_url": "https://github.com/Discord-AppBot",
-        "followers_url": "https://api.github.com/users/Discord-AppBot/followers",
-        "following_url": "https://api.github.com/users/Discord-AppBot/following{/other_user}",
-        "gists_url": "https://api.github.com/users/Discord-AppBot/gists{/gist_id}",
-        "starred_url": "https://api.github.com/users/Discord-AppBot/starred{/owner}{/repo}",
-        "subscriptions_url": "https://api.github.com/users/Discord-AppBot/subscriptions",
-        "organizations_url": "https://api.github.com/users/Discord-AppBot/orgs",
-        "repos_url": "https://api.github.com/users/Discord-AppBot/repos",
-        "events_url": "https://api.github.com/users/Discord-AppBot/events{/privacy}",
-        "received_events_url": "https://api.github.com/users/Discord-AppBot/received_events",
-        "type": "User",
-        "site_admin": false
-      },
-      "truncated": false
+      }
     }
   ],
   "user": {
